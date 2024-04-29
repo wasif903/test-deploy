@@ -14,8 +14,8 @@ app.get('/', (req, res) => {
 app.use("/api", User)
 
 app.listen(5000, () => {
-    console.log("APP Listening To")
+    console.log("APP Listening To 5000")
 })
 
 
-export { app };
+export default  app;
