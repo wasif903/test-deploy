@@ -17,4 +17,4 @@ app.listen(5000, () => {
 })
 
 
-export  {app};
+export { app };
